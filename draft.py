@@ -4,3 +4,4 @@ if a>3:
     print(a+b)
 else:
     print(a-b)
+print(sayali)
