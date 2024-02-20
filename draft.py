@@ -2,12 +2,8 @@ a=int(input("Enter number one"))
 b=int(input("Enter number 2"))
 print(a+b)
 if a>3:
-    print(a+b)
+    print("Hanshika")
 else:
-
-    print(a-b)
-
-    print(a-b)
-
-print("sayali")
+    print("Sayali")
+    print("Arman")
 
