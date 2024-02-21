@@ -5,5 +5,6 @@ if a>3:
     print("Kunal")
 else:
     print("Sayali")
-    print("Arman")
+    print("Soni")
+    
 
